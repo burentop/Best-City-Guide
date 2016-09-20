@@ -417,3 +417,17 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
+
+/* Lists
+   ========================================================================== */
+
+/**
+ * Remove default list styles, margins and padding
+ */
+
+ ol,
+ ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
